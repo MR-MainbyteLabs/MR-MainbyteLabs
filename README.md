@@ -27,9 +27,9 @@ that need simple, reliable tools without the overhead.
 
 | Document | Type | View |
 |---|---|---|
-| Pyenv Setup Guide | Developer Environment SOP | [View](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Pyenv_setup_guide.md) |
-| Linux Network & Camera System SOP | System Setup Guide | [View](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/linux_network_camera_sop.md) |
-| Python Reference Guide | Developer Reference | [View](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/python_reference_guide.md) |
+| Pyenv Setup Guide | Developer Environment SOP | [View](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/Pyenv_setup_guide.md) |
+| Linux Network & Camera System SOP | System Setup Guide | [View](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/linux_network_camera_sop.md) |
+| Python Reference Guide | Developer Reference | [View](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/python_reference_guide.md) |
 
 ---
 
