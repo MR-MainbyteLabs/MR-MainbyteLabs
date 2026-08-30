@@ -40,7 +40,8 @@ that need simple, reliable tools without the overhead.
 **Availability:** Open to new clients
 
 Reach out on LinkedIn or open an issue on this repo to start a conversation.
+https://www.linkedin.com/in/michael-rivera-c0ding/
 
 ---
 
-*MainbyteLabs — clean docs, working code.*
+*MainbyteLabs — Instructions for Innovations.*
