@@ -37,11 +37,11 @@ https://www.linkedin.com/in/michael-rivera-c0ding/
 ---
 | File | Type | Description |
 |---|---|---|
-| [Linux Network Camera SOP](./technical-docs-portfolio/blob/main/Linux_network_camera_sop.md) | SOP | Step-by-step process for setting up and managing network cameras on Linux |
-| [Pyenv Setup Guide](./technical-docs-portfolio/blob/main/Pyenv_setup_guide.md) | Setup Guide | Installation and configuration guide for managing Python versions with Pyenv |
-| [Python Reference Guide](./technical-docs-portfolio/blob/main/python_reference_guide.md) | Reference Doc | Quick-reference guide for common Python functions, patterns, and usage |
-| [Customer Onboarding SOP](./technical-docs-portfolio/blob/main/Customer_onboarding_sop.md) | SOP | Standard onboarding process for new clients at a service-based business |
-| [Notion Workspace Setup Guide](./technical-docs-portfolio/blob/main/Notion_workspace_setup_guide.md) | User Guide | End-user guide for setting up and managing a Notion workspace for small teams |
-| [Python Linux→Windows EXE Guide](./technical-docs-portfolio/blob/main/python_linux_to_windows_exe_guide.md) | Setup Guide | Step-by-step guide to packaging a Python script as a standalone Windows executable using PyInstaller |
+| [Linux Network Camera SOP](./technical-docs-portfolio/Linux_network_camera_sop.md) | SOP | Step-by-step process for setting up and managing network cameras on Linux |
+| [Pyenv Setup Guide](./technical-docs-portfolio/Pyenv_setup_guide.md) | Setup Guide | Installation and configuration guide for managing Python versions with Pyenv |
+| [Python Reference Guide](./technical-docs-portfolio/python_reference_guide.md) | Reference Doc | Quick-reference guide for common Python functions, patterns, and usage |
+| [Customer Onboarding SOP](./technical-docs-portfolio/Customer_onboarding_sop.md) | SOP | Standard onboarding process for new clients at a service-based business |
+| [Notion Workspace Setup Guide](./technical-docs-portfolio/Notion_workspace_setup_guide.md) | User Guide | End-user guide for setting up and managing a Notion workspace for small teams |
+| [Python Linux→Windows EXE Guide](./technical-docs-portfolio/python_linux_to_windows_exe_guide.md) | Setup Guide | Step-by-step guide to packaging a Python script as a standalone Windows executable using PyInstaller |
 ---
 
