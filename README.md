@@ -1,5 +1,6 @@
 ## *MainbyteLabs — Instructions for Innovations.*
 [LinkedIn Company Page](https://www.linkedin.com/company/mainbytelabs)
+
 **Michael Rivera | Founder & Technical Writer**
 Philadelphia, PA · [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) · [GitHub](https://github.com/MR-MainbyteLabs)
 
