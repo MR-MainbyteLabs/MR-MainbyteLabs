@@ -1,35 +1,32 @@
 ## *MainbyteLabs — Instructions for Innovations.*
 
+**Michael Rivera | Founder & Technical Writer**
+Philadelphia, PA · [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) · [GitHub](https://github.com/MR-MainbyteLabs)
+
+IPC-certified Electronics Test Technician III at L3Harris Technologies by day —
+technical writer and Python automation developer through MainByte Labs.
+
+My background is hands-on: Navy IC Electrician, PCB assembly and repair across
+three manufacturing roles, IPC-certified in J-STD-001, IPC-A-610, and IPC/WHMA-A-620.
+That experience shapes how I write — documentation here is built to be followed in
+the real world, not just read.
+
+If it has to work in the field, I can document it.
 ---
 
-## What We Do
+## Services
 
-We help small businesses, developers and small tech startups eliminate the "ask Michael" problem,
-where critical knowledge lives in one person's head instead of a document. Making unfinished SOPs, 
-and rough technical notes into clean, professional documentation that's actually usable.
+Need documentation your team will actually use? Here's what MainbyteLabs delivers:
 
-We also build lightweight Python scripts and automations for teams
-that need simple, reliable tools without the overhead.
+| Service | What you get | Price | Turnaround |
+|---|---|---|---|
+| README Documentation | Structured, scannable README with usage examples and diagrams | $50 | 24 hrs |
+| Complaint Letter | Legally-cited consumer dispute letter | $35 | 24 hrs |
+| Negotiation Brief | Research-backed brief for salary, contract, or vendor negotiation | $97 | 48 hrs |
+| SOPs & Process Docs | End-to-end process documentation for internal teams | $150+ | Scoped |
+| Technical Setup Guides | Installation and configuration guides for tools and software | $150+ | Scoped |
 
-- **Technical Writing** — SOPs, Technical setup & User guides for internal
-  tools and software, reference docs, and on-boarding materials.
-  
-- **Doc Cleanup & Polishing** — raw drafts and messy notes transformed into
-  professional Markdown docs
-  
-- **Python & Bash Scripting on Linux** — small automations, file tools, workflow scripts,
-  shell scripting, data organization and file management
-
----
-
-## Work With Me
-
-**Turnaround:** 48–72 hours  
-**Starting at:** $150/doc or $75/hr for scripting work  
-**Availability:** Open to new clients
-
-Reach out on LinkedIn or open an issue on this repo to start a conversation.
-https://www.linkedin.com/in/michael-rivera-c0ding/
+📩 **Ready to start?** → [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) or email mr.mainbytelabs@gmail.com
 
 ---
 
