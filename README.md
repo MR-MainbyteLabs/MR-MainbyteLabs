@@ -46,5 +46,8 @@ Need documentation your team will actually use? Here's what MainbyteLabs deliver
 | [Complaint Letter Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Complaint_Letter_Sample.md) | Sample Letter | Fictional consumer refund dispute citing FTC and state consumer protection law — demonstrates the $35 Complaint Letter service |
 | [README Before/After Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/README_BeforeAfter_Sample.md) | Before/After Sample | Rewrites a realistic weak README into a structured, scannable version with install steps, usage examples, and a Mermaid diagram — demonstrates the $50 README Documentation service |
 | [HVAC SOP Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/HVAC_SOP_Sample.md) | SOP Sample | Three-document SOP set for a fictional residential HVAC company — customer call script, technician daily report, and complaint handling procedur
+| [Negotiation Brief Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Negotiation_Brief_Sample.md) | Sample Brief | Fictional severance package negotiation citing tenure and record — demonstrates the $97 Negotiation Brief service |
+| [Plain Language Translation Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Plain_Language_Translation_Sample.md) | Sample Translation | Rewrites a dense insurance balance-billing clause into plain language — demonstrates the $300–500 Plain Language Translation service |
+
 ---
 📩 Hire MainbyteLabs → LinkedIn or mr.mainbytelabs@gmail.com
