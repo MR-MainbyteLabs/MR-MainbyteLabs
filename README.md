@@ -28,6 +28,7 @@ Need documentation your team will actually use? Here's what MainbyteLabs deliver
 | Technical Setup Guides | Installation and configuration guides for tools and software | $150+ | Scoped | [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) |
 
 📩 **Ready to start?** → [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) or email mr.mainbytelabs@gmail.com
+| Plain Language Translation | Rewrites dense legal, insurance, or financial documents into plain language | $300–500, scoped | 48 hrs | [Request a quote](mailto:mr.mainbytelabs@gmail.com?subject=Plain%20Language%20Translation%20Quote) |
 
 ---
 
