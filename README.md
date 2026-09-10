@@ -4,7 +4,7 @@
 **Michael Rivera | Founder & Technical Writer**
 Philadelphia, PA · [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) · [GitHub](https://github.com/MR-MainbyteLabs)
 
-MainbyteLabs writes documentation your team will actually use — SOPs, setup guides, and technical references built and maintained for developers and small teams.
+MainbyteLabs writes documentation your team will actually use, SOPs, setup guides, and technical references built and maintained for developers and small teams.
 
 If it has to work in the field, I can document it.
 ---
@@ -25,7 +25,7 @@ Need documentation your team will actually use? Here's what MainbyteLabs deliver
 📩 **Ready to start?** → [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) or email mr.mainbytelabs@gmail.com
 
 
-Background: IPC-certified Electronics Test Technician III (Navy IC Electrician, PCB assembly/repair, J-STD-001, IPC-A-610, IPC/WHMA-A-620) — that hands-on standard is why documentation here is built to be followed, not just read.
+I am IPC-certified Electronics Test Technician III (Navy IC Electrician, PCB assembly/repair, J-STD-001, IPC-A-610, IPC/WHMA-A-620). That hands-on standard is why documentation here is built to be followed, not just read.
 
 
 ---
