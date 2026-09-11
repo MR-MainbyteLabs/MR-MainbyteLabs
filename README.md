@@ -35,9 +35,7 @@ Need documentation your team will actually use? Here's what MainbyteLabs deliver
 
 📩 **Ready to start?** → [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) or email mr.mainbytelabs@gmail.com
 
-
 I am IPC-certified Electronics Test Technician III (Navy IC Electrician, PCB assembly/repair, J-STD-001, IPC-A-610, IPC/WHMA-A-620). That hands-on standard is why documentation here is built to be followed, not just read.
-
 
 ---
 
@@ -60,11 +58,11 @@ I am IPC-certified Electronics Test Technician III (Navy IC Electrician, PCB ass
 | [README Before/After Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/README_BeforeAfter_Sample.md) | Before/After Sample | Rewrites a realistic weak README into a structured, scannable version with install steps, usage examples, and a Mermaid diagram — demonstrates the $50 README Documentation service |
 | [Customer Onboarding SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Customer_onboarding_sop.md) | SOP | Sample — demonstrates the SOPs & Process Docs service; shows MainbyteLabs documentation standard applied to a real business workflow |
 | [Notion Workspace Setup Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Notion_workspace_setup_guide.md) | User Guide | Sample — demonstrates the Technical Setup Guides service; written for a non-technical audience with zero assumed Notion experience |
-Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfolio](https://github.com/MR-MainbyteLabs/technical-docs-portfolio)
 | [Complaint Letter Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Complaint_Letter_Sample.md) | Sample Letter | Fictional consumer refund dispute citing FTC and state consumer protection law — demonstrates the $35 Complaint Letter service |
 | [Negotiation Brief Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Negotiation_Brief_Sample.md) | Sample Brief | Fictional severance package negotiation citing tenure and record — demonstrates the $97 Negotiation Brief service |
 | [Plain Language Translation Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Plain_Language_Translation_Sample.md) | Sample Translation | Rewrites a dense insurance balance-billing clause into plain language — demonstrates the $300–500 Plain Language Translation service |
 
+Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfolio](https://github.com/MR-MainbyteLabs/technical-docs-portfolio)
 ---
 ## Work With Me
 
