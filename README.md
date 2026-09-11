@@ -24,7 +24,7 @@ Need documentation your team will actually use? Here's what MainbyteLabs deliver
 
 | Service | What you get | Price | Turnaround | Order |
 |---|---|---|---|---|
-| Reddit "Do It For Me" Writing | |$20–$40 | Same-day || [Request a quote](mailto:mr.mainbytelabs@gmail.com?subject=Plain%20Language%20Translation%20Quote) |
+| Reddit "Do It For Me" Writing | Blog, topic and content writing |$20–$40 | Same-day | [Request a quote](mailto:mr.mainbytelabs@gmail.com?subject=Plain%20Language%20Translation%20Quote) |
 | Custom Python Tooling |Linux environments SSH-based and Non SSH-based file transfer, automation, security scanning, and workflows| $100/hr | Scoped | [Request a quote](mailto:mr.mainbytelabs@gmail.com?subject=Plain%20Language%20Translation%20Quote) 
 | GitHub README Documentation | Structured, scannable README with usage examples and diagrams | $50 | 24 hrs | [Start here](https://buy.stripe.com/eVq8wO2Z1bpQ38seRO2VG01) |
 | Complaint Letter | Legally-cited consumer dispute letter | $35 | 24 hrs | [Start here](https://buy.stripe.com/28EeVc6bd79A7oIgZW2VG00) |
