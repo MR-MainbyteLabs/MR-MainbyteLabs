@@ -47,7 +47,7 @@ I am IPC-certified Electronics Test Technician III (Navy IC Electrician, PCB ass
 | Tool | Description | Docs |
 |---|---|---|
 | [pyqt-camera-dashboard](https://github.com/BleedingCodes/pyqt-camera-dashboard) | Multi-camera RTSP live dashboard with encrypted credential storage | [Setup & User Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio) |
-| [sftp-ultra](https://github.com/BleedingCodes/sftp-ultra) | Production SFTP engine — concurrent workers, SHA-256 verification, SQLite journal | [README](https://github.com/BleedingCodes/sftp-ultra/blob/main/README.md),[Setup & User Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/sftp-transfer-verification-guide.md)  |
+| [sftp-ultra](https://github.com/BleedingCodes/sftp-ultra) | Production SFTP engine — concurrent workers, SHA-256 verification, SQLite journal | [README](https://github.com/BleedingCodes/sftp-ultra/blob/main/README.md), [Setup & User Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/sftp-transfer-verification-guide.md)  |
 | [security-scanner](https://github.com/BleedingCodes/security-scanner) | Local read-only scanner for exposed secrets in JSON/config/text files | [README](https://github.com/BleedingCodes/security-scanner/blob/main/README.md) |
 | [highlight-scraper](https://github.com/BleedingCodes/highlight-scraper) | Captures mouse-highlighted text to SQLite — CLI, GUI, and tray front ends | [README](https://github.com/BleedingCodes/highlight-scraper/blob/main/README.md) |
 | [multi-file-diff-tool](https://github.com/BleedingCodes/multi_file_diff_tool/) | Desktop GUI + CLI file diff and merge with HTML report export | [README](https://github.com/BleedingCodes/multi_file_diff_tool/blob/main/README.md) |
