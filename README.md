@@ -44,7 +44,7 @@ I am IPC-certified Electronics Test Technician III (Navy IC Electrician, PCB ass
 
 ## Portfolio
 
-| Tool | Description | Docs |
+| Tool | Docs | Description |
 |---|---|---|
 | [pyqt-camera-dashboard](https://github.com/BleedingCodes/pyqt-camera-dashboard) | [README](https://github.com/BleedingCodes/pyqt-camera-dashboard/blob/main/README.md), [Setup & User Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio) | Multi-camera RTSP live dashboard with encrypted credential storage |
 | [sftp-ultra](https://github.com/BleedingCodes/sftp-ultra) | [README](https://github.com/BleedingCodes/sftp-ultra/blob/main/README.md), [Setup & User Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/sftp-transfer-verification-guide.md)  | Production SFTP engine — concurrent workers, SHA-256 verification, SQLite journal |
