@@ -68,6 +68,7 @@ I am IPC-certified Electronics Test Technician III (Navy IC Electrician, PCB ass
 | [Plain Language Translation Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Plain_Language_Translation_Sample.md) | Sample Translation | Rewrites a dense insurance balance-billing clause into plain language — demonstrates the $300–500 Plain Language Translation service |
 | [SSH Hardening SOP for Linux Lab Environments](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/ssh-hardening-sop.md) | Setup & User Guide | SSH hardening for Linux systems in electronics lab and hardware team environments |
 | [SFTP Transfer Verification Guide for Linux Lab Environments](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/sftp-transfer-verification-guide.md) | Setup & User Guide | Covers reliable, verifiable SFTP file transfer in Linux lab environments — including manual verification methods, common failure modes, and automated transfer using [sftp-ultra](https://github.com/BleedingCodes/sftp-ultra) |
+| [microcam-benchscope-sop](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/microcam-benchscope-sop.md) |Setup & User Guide| This guide covers everything from a first-time bench setup to the routine you'll follow for daily inspections. 
 
 Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfolio](https://github.com/MR-MainbyteLabs/technical-docs-portfolio)
 
