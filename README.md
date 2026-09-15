@@ -41,7 +41,19 @@ Need documentation your team will actually use? Here's what MainbyteLabs deliver
 I am IPC-certified Electronics Test Technician III (Navy IC Electrician, PCB assembly/repair, J-STD-001, IPC-A-610, IPC/WHMA-A-620). That hands-on standard is why documentation here is built to be followed, not just read.
 
 ---
-
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PySide6](https://img.shields.io/badge/GUI-PySide6-green)
+![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
+![FFmpeg](https://img.shields.io/badge/Recording-FFmpeg-purple)
+![PyAV](https://img.shields.io/badge/PyAV-Bindings-blueviolet)
+![SQLite](https://img.shields.io/badge/Storage-SQLite-003B57?logo=sqlite&logoColor=white)
+![pygame](https://img.shields.io/badge/Audio%20%2F%20Display-pygame-orange)
+![Linux](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux&logoColor=white)
+![X11](https://img.shields.io/badge/Display-X11%20%2F%20xwinwrap-informational)
+![SSH](https://img.shields.io/badge/Transport-SSH%20%2F%20SFTP-yellow)
+![MIT](https://img.shields.io/badge/License-MIT-brightgreen)
+---
 ## Tools
 
 All tools are built and maintained at **[BleedingCodes](https://github.com/BleedingCodes)**.
