@@ -61,7 +61,14 @@ All tools are built and maintained at **[BleedingCodes](https://github.com/Bleed
 | [matrix-rain](https://github.com/BleedingCodes/matrix-rain) | Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI |
 
 ---
-
+![IPC-A-610](https://img.shields.io/badge/IPC--A--610-Certified-blue)
+![IPC-WHMA-A-620](https://img.shields.io/badge/IPC%2FWHMA--A--620-Certified-blue)
+![J-STD-001](https://img.shields.io/badge/J--STD--001-Certified-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Markdown](https://img.shields.io/badge/Docs-Markdown-lightgrey)
+![Linux](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-brightgreen)
+---
 ## Portfolio
 
 Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfolio](https://github.com/MR-MainbyteLabs/technical-docs-portfolio)
