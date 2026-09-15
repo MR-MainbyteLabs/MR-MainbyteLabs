@@ -20,7 +20,13 @@ Custom scripts and tools for file transfer, lab automation, security scanning, a
 Documentation built to IPC and production-environment standards. Clear, accurate, and written by someone who has used test equipment, read schematics, and executed SOPs in a real production environment.
 
 ---
-
+![SOPs](https://img.shields.io/badge/Docs-SOPs-blue)
+![Setup Guides](https://img.shields.io/badge/Docs-Setup%20Guides-blue)
+![Case Studies](https://img.shields.io/badge/Docs-Case%20Studies-blue)
+![Markdown](https://img.shields.io/badge/Format-Markdown-lightgrey)
+![IPC-A-610](https://img.shields.io/badge/IPC--A--610-Certified-informational)
+![MIT](https://img.shields.io/badge/License-MIT-brightgreen)
+---
 ## Services
 
 Need documentation your team will actually use? Here's what MainbyteLabs delivers:
