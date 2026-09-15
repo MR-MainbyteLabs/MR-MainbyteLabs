@@ -86,7 +86,7 @@ Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfol
 | Doc | Type | Description |
 |---|---|---|
 | [microcam-benchscope SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/microcam-benchscope-sop.md) | Setup & User Guide | Full bench setup and daily operation guide for the microcam-benchscope PCB inspection workstation |
-| [PyQt5 Camera Dashboard Setup Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Cam_Dashboard_Setup_Guide/PyQT5_Cam_Dashboard_Setup_Guide.md) | Setup & User Guide | Full setup, user, and architecture guide for the pyqt-camera-dashboard multi-camera RTSP dashboard |
+| [PyQt5 Camera Dashboard Setup Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/PyQT5_Cam_Dashboard_Setup_Guide.md) | Setup & User Guide | Full setup, user, and architecture guide for the pyqt-camera-dashboard multi-camera RTSP dashboard |
 | [SSH Hardening SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/ssh-hardening-sop.md) | Setup & User Guide | SSH hardening for Linux systems in electronics lab and hardware team environments |
 | [SFTP Transfer Verification Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/sftp-transfer-verification-guide.md) | Setup & User Guide | Reliable, verifiable SFTP file transfer in Linux lab environments |
 | [EvoForge Case Study](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/tree/main/evoforge-case-study) | Case Study | Documents what changed and why across three AI-iterated versions of EvoForge, a Python artificial-life simulator |
