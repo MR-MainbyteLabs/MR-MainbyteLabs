@@ -69,7 +69,7 @@ All tools are built and maintained at **[BleedingCodes](https://github.com/Bleed
 | [PureTrace](https://github.com/BleedingCodes/PureTrace) | CPU-only path tracer — PBR materials, zero third-party dependencies |
 | [lumen-lang](https://github.com/BleedingCodes/lumen-lang) | Custom language in Python — lexer, Pratt parser, bytecode compiler, stack VM, REPL |
 | [matrix-rain](https://github.com/BleedingCodes/matrix-rain) | Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI |
-| [rd-idea-engine](https://github.com/BleedingCodes/rd-idea-engine) | Three-option R&D research and stress-test tool — browser app (OpenAI), Python CLI (Anthropic), fully local browser app (Ollama). No SaaS subscription needed. |
+
 
 ---
 ![IPC-A-610](https://img.shields.io/badge/IPC--A--610-Certified-blue)
