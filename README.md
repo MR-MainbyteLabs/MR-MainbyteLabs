@@ -69,6 +69,7 @@ All tools are built and maintained at **[BleedingCodes](https://github.com/Bleed
 | [PureTrace](https://github.com/BleedingCodes/PureTrace) | CPU-only path tracer — PBR materials, zero third-party dependencies |
 | [lumen-lang](https://github.com/BleedingCodes/lumen-lang) | Custom language in Python — lexer, Pratt parser, bytecode compiler, stack VM, REPL |
 | [matrix-rain](https://github.com/BleedingCodes/matrix-rain) | Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI |
+| [rd-idea-engine](https://github.com/BleedingCodes/rd-idea-engine) | Three-option R&D research and stress-test tool — browser app (OpenAI), Python CLI (Anthropic), fully local browser app (Ollama). No SaaS subscription needed. |
 
 ---
 ![IPC-A-610](https://img.shields.io/badge/IPC--A--610-Certified-blue)
@@ -101,6 +102,9 @@ Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfol
 | [Complaint Letter Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Complaint_Letter_Sample.md) | Sample Letter | Fictional consumer refund dispute citing FTC and state consumer protection law |
 | [Negotiation Brief Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Negotiation_Brief_Sample.md) | Sample Brief | Fictional severance package negotiation citing tenure and record |
 | [Plain Language Translation Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Plain_Language_Translation_Sample.md) | Sample Translation | Dense insurance balance-billing clause rewritten into plain language |
+| [R&D Idea Engine — Technical Reference](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/rd-idea-engine-readme.md) | Technical Reference | Architecture and usage reference for the rd-idea-engine — three-option R&D research and stress-test tool |
+| [R&D Idea Engine — Test & Validation SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/rd-idea-engine-test-run.md) | Test & Validation SOP | End-to-end validation procedure for both Research Mode and Paste Mode — pass/fail criteria included |
+| [R&D Idea Engine — Modification Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/rd-idea-engine-modification-guide.md) | Technical Analytics | MainbyteLabs standard for modifying open source single-file tools — covers every modifiable component |
 
 ---
 
