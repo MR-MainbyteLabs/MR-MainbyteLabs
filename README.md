@@ -2,8 +2,8 @@
 
 **Technical documentation and Python tooling — built by a working electronics technician.**
 
-I'm Michael Rivera. My day job is Electronics Test Technician III at L3Harris.
-I also build Python tools and write technical documentation for hardware teams, electronics labs, and Linux-based tech operations.
+I'm Michael Rivera. My day job is handling Electronics.
+Experimenting with AI and  Python to Build tools and write technical documentation for hardware teams, electronics labs, and Linux-based tech operations.
 
 That background is the whole point. I know what it looks like when documentation fails on the bench. I know what a tool actually needs to do to survive a real workflow. That's what you get here — stuff built to be used, not just read.
 
