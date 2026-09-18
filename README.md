@@ -1,14 +1,23 @@
-# MainbyteLabs
+## *MainbyteLabs — Instructions for Innovations.* &nbsp;[LinkedIn Company Page](https://www.linkedin.com/company/mainbytelabs)
 
-**Technical documentation and Python tooling — built by a working electronics technician.**
+**Technical documentation and Python tooling for electronics labs, hardware shops, and Linux-based tech teams.**
 
-I'm Michael Rivera. My day job is handling and assembling Electronics.
+Built by an IPC-certified electronics technician who also writes production Python. The documentation is grounded in how these systems actually behave on the bench — not how they look on a slide deck.
+
+If it has to work in the field, I can document it.
+
 ---
-MainbyteLabs Writes technical documentation, built for hardware teams, electronics enthusiast, and Linux-based operations.
 
-I know what it feels like when documentation fails you on the half-way in.
+## What MainbyteLabs Does
 
-If your team runs on spreadsheets, paper logs, or READMEs nobody opens — I can fix that.
+**Technical Documentation**
+SOPs, setup guides, README documentation, onboarding guides, and developer references. Written for engineers and technicians, not marketers. Delivered in Markdown, ready to version-control.
+
+**Python Tooling**
+Custom scripts and tools for file transfer, lab automation, security scanning, and internal workflows. Targeted at Linux environments, SSH-based infrastructure, and hardware-adjacent systems.
+
+**Compliance-Ready Docs**
+Documentation built to IPC and production-environment standards. Clear, accurate, and written by someone who has used test equipment, read schematics, and executed SOPs in a real production environment.
 
 ---
 
@@ -21,20 +30,9 @@ If your team runs on spreadsheets, paper logs, or READMEs nobody opens — I can
 
 ---
 
-## What MainbyteLabs Does
-
-**Technical Documentation**
-SOPs, setup guides, README documentation, onboarding guides, and developer references. Written for engineers and technicians. Delivered in Markdown, ready to version-control.
-
-**Python Tooling**
-Custom scripts and tools for file transfer, lab automation, security scanning, and internal workflows. Built for Linux environments, SSH-based infrastructure, and hardware-adjacent systems.
-
-**Compliance-Ready Docs**
-Documentation built to IPC and production-environment standards — written by someone who has used the test equipment, read the schematics, and executed the SOPs in a real production environment.
-
----
-
 ## Services
+
+Need documentation your team will actually use? Here's what MainbyteLabs delivers:
 
 | Service | What you get | Price | Turnaround | Order |
 |---|---|---|---|---|
@@ -44,10 +42,18 @@ Documentation built to IPC and production-environment standards — written by s
 | Complaint Letter | Legally-cited consumer dispute letter | $35 | 24 hrs | [Start here](https://buy.stripe.com/28EeVc6bd79A7oIgZW2VG00) |
 | Negotiation Brief | Research-backed brief for salary, contract, or vendor negotiation | $97 | 48 hrs | [Start here](https://buy.stripe.com/9B67sKartgKa38s9xu2VG02) |
 | Reddit "Do It For Me" Writing | Blog, topic and content writing | $20–$40 | Same-day | [Request a quote](mailto:mr.mainbytelabs@gmail.com?subject=Reddit+Writing+Quote) |
-| Plain Language Translation | Dense legal, insurance, or financial documents rewritten into plain language | $300–$500 | 48 hrs | [Request a quote](mailto:mr.mainbytelabs@gmail.com?subject=Plain+Language+Translation+Quote) |
 | Custom Python Tooling | Linux environments — SSH-based and non-SSH automation and workflows | $100/hr | Scoped | [Request a quote](mailto:mr.mainbytelabs@gmail.com?subject=Python+Tooling+Quote) |
 
-📩 **Ready to start?** → [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) or mr.mainbytelabs@gmail.com
+📩 **Ready to start?** → [LinkedIn](https://linkedin.com/in/michael-rivera-c0ding) or email mr.mainbytelabs@gmail.com
+
+I am IPC-certified Electronics Test Technician III (Navy IC Electrician, PCB assembly/repair, J-STD-001, IPC-A-610, IPC/WHMA-A-620). That hands-on standard is why documentation here is built to be followed, not just read.
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Linux](https://img.shields.io/badge/Platform-Linux-lightgrey?logo=linux&logoColor=white)
+![SSH](https://img.shields.io/badge/Transport-SSH%20%2F%20SFTP-yellow)
+![MIT](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ---
 
@@ -57,19 +63,24 @@ All tools are built and maintained at **[BleedingCodes](https://github.com/Bleed
 
 | Tool | Description |
 |---|---|
-| [microcam-benchscope](https://github.com/BleedingCodes/microcam-benchscope) | PCB inspection workstation — HDMI microscope, OCR, measurements, focus stacking, HDR fusion |
+| [microcam-benchscope](https://github.com/BleedingCodes/microcam-benchscope) | Linux HDMI microscope and USB capture-card workstation for PCB inspection, OCR, measurements, focus stacking, HDR fusion, and electronics repair |
 | [pyqt-camera-dashboard](https://github.com/BleedingCodes/pyqt-camera-dashboard) | Multi-camera RTSP live dashboard with encrypted credential storage |
 | [sftp-ultra](https://github.com/BleedingCodes/sftp-ultra) | Production SFTP engine — concurrent workers, SHA-256 verification, SQLite journal |
-| [security-scanner](https://github.com/BleedingCodes/security-scanner) | Local read-only scanner for exposed secrets in JSON, config, and text files |
-| [highlight-scraper](https://github.com/BleedingCodes/highlight-scraper) | Captures mouse-highlighted text to SQLite — CLI, GUI, and tray |
-| [multi_file_diff_tool](https://github.com/BleedingCodes/multi_file_diff_tool) | File diff and merge — GUI + CLI, HTML report export |
-| [ssh-vid-mover](https://github.com/BleedingCodes/ssh-vid-mover) | SSH video transfer — safe .part download, size verification, remote delete on success |
-| [meta-prompt-engine](https://github.com/BleedingCodes/meta-prompt-engine) | Browser-based prompt engineering tool for Claude, GPT-4o, and Gemini |
-| [rd-idea-engine](https://github.com/BleedingCodes/rd-idea-engine) | R&D research and stress-test tool — browser (OpenAI), CLI (Anthropic), local (Ollama) |
-| [evoforge](https://github.com/BleedingCodes/evoforge) | Artificial life simulator — neural agents evolve through selection pressure, zero scripted logic |
+| [security-scanner](https://github.com/BleedingCodes/security-scanner) | Local read-only scanner for exposed secrets in JSON/config/text files |
+| [highlight-scraper](https://github.com/BleedingCodes/highlight-scraper) | Captures mouse-highlighted text to SQLite — CLI, GUI, and tray front ends |
+| [multi-file-diff-tool](https://github.com/BleedingCodes/multi_file_diff_tool) | Desktop GUI + CLI file diff and merge with HTML report export |
+| [ssh-vid-mover](https://github.com/BleedingCodes/ssh-vid-mover) | SSH script to pull camera recordings from a remote Linux machine — safe .part download, size verification, remote delete on success |
+| [bleedingtones](https://github.com/BleedingCodes/bleedingtones) | Terminal audio triggers for builds, scripts, and CI hooks |
+| [meta-prompt-engine](https://github.com/BleedingCodes/meta-prompt-engine) | Browser-based prompt engineering tool for building and refining AI prompts |
+| [rd-idea-engine](https://github.com/BleedingCodes/rd-idea-engine) | R&D research and stress-test tool — browser (OpenAI), CLI (Anthropic), and fully local (Ollama) |
+| [guided-build-framework](https://github.com/BleedingCodes/guided-build-framework) | Prompt framework for idea generation and execution-focused project evaluation |
+| [EvoForge](https://github.com/BleedingCodes/evoforge) | Artificial life simulator — neural agents, mutation, real-time visualization |
 | [PureTrace](https://github.com/BleedingCodes/PureTrace) | CPU-only path tracer — PBR materials, zero third-party dependencies |
 | [lumen-lang](https://github.com/BleedingCodes/lumen-lang) | Custom language in Python — lexer, Pratt parser, bytecode compiler, stack VM, REPL |
 | [matrix-rain](https://github.com/BleedingCodes/matrix-rain) | Matrix-style live wallpaper — pygame, X11/xwinwrap, configurable via CLI |
+
+**Modification guides** for every tool above:
+[github.com/MR-MainbyteLabs/bleedingcodes-modification-guides](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides)
 
 ---
 
@@ -98,14 +109,34 @@ Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfol
 | [Pyenv Setup Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Pyenv_setup_guide.md) | Setup Guide | Python version management on Linux for the first time |
 | [Python Reference Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/python_reference_guide.md) | Technical Reference | Quick-reference guide for common Python functions, patterns, and usage |
 | [Python Linux→Windows EXE Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/python_linux_to_windows_exe_guide.md) | Setup Guide | Packaging a Python script as a standalone Windows executable using PyInstaller |
-| [HVAC SOP Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/HVAC_SOP_Sample.md) | SOP Sample | Three-document SOP set — customer call script, technician daily report, complaint handling |
 | [README Before/After Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/README_BeforeAfter_Sample.md) | Before/After Sample | Weak README rewritten into structured, scannable version with Mermaid diagram |
 | [Customer Onboarding SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Customer_onboarding_sop.md) | SOP | MainbyteLabs documentation standard applied to a real business workflow |
 | [Notion Workspace Setup Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Notion_workspace_setup_guide.md) | User Guide | Written for a non-technical audience with zero assumed Notion experience |
 | [Complaint Letter Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Complaint_Letter_Sample.md) | Sample Letter | Fictional consumer refund dispute citing FTC and state consumer protection law |
 | [Negotiation Brief Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Negotiation_Brief_Sample.md) | Sample Brief | Fictional severance package negotiation citing tenure and record |
-| [Plain Language Translation Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Plain_Language_Translation_Sample.md) | Sample Translation | Dense insurance balance-billing clause rewritten into plain language |
-| [Highlight Scraper — Modification Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/highlight-scraper-complete-modification-guide.md) | Modification Guide | Complete developer reference for highlight-scraper — architecture map, per-file modification instructions, and end-to-end feature walkthrough |
+| [R&D Idea Engine — Technical Reference](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/rd-idea-engine-readme.md) | Technical Reference | Architecture and usage reference for the three-option R&D Idea Engine |
+| [R&D Idea Engine — Test & Validation SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/rd-idea-engine-test-run.md) | SOP | Test and validation procedures for all three R&D Idea Engine versions |
+| [R&D Idea Engine — Modification Guide](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/rd-idea-engine-modification-guide.md) | Modification Guide | Extension and customization guide for the R&D Idea Engine |
+
+**BleedingCodes Modification Guides** — full set at [github.com/MR-MainbyteLabs/bleedingcodes-modification-guides](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides)
+
+| Tool | Guide |
+|---|---|
+| [sftp-ultra](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/sftp-ultra-modification-guide.md) | Modification Guide |
+| [microcam-benchscope](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/microcam-benchscope-modification-guide.md) | Modification Guide |
+| [pyqt-camera-dashboard](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/pyqt-camera-dashboard-modification-guide.md) | Modification Guide |
+| [highlight-scraper](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/highlight-scraper-modification-guide.md) | Modification Guide |
+| [multi-file-diff-tool](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/multi-file-diff-tool-modification-guide.md) | Modification Guide |
+| [ssh-vid-mover](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/ssh-vid-mover-modification-guide.md) | Modification Guide |
+| [matrix-rain](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/matrix-rain-modification-guide.md) | Modification Guide |
+| [meta-prompt-engine](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/meta-prompt-engine-modification-guide.md) | Modification Guide |
+| [guided-build-framework](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/guided-build-framework-modification-guide.md) | Modification Guide |
+| [bleedingtones](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/bleedingtones-modification-guide.md) | Modification Guide |
+| [security-scanner](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/security-scanner-modification-guide.md) | Modification Guide |
+| [rd-idea-engine](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/rd-idea-engine-modification-guide.md) | Modification Guide |
+| [EvoForge](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/evoforge-modification-guide.md) | Modification Guide |
+| [PureTrace](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/puretrace-modification-guide.md) | Modification Guide |
+| [lumen-lang](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/lumen-lang-modification-guide.md) | Modification Guide |
 
 ---
 
@@ -114,7 +145,7 @@ Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfol
 **LinkedIn:** [linkedin.com/in/michael-rivera-c0ding](https://linkedin.com/in/michael-rivera-c0ding)
 **Email:** mr.mainbytelabs@gmail.com
 
-Project inquiries responded to within 24 hours.
+Project inquiries and scoping requests responded to within 24 hours.
 
 ---
 
