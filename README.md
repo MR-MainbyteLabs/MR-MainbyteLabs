@@ -3,6 +3,7 @@
 **Technical documentation and Python tooling — built by a working electronics technician.**
 
 I'm Michael Rivera. My day job is handling and assembling Electronics.
+---
 MainbyteLabs Write technical documentation, built for hardware teams, electronics enthusiast, and Linux-based operations.
 
 I know what it feels like when documentation fails you on the half-way in.
