@@ -2,10 +2,10 @@
 
 **Technical documentation and Python tooling — built by a working electronics technician.**
 
-I'm Michael Rivera. My day job is handling Electronics.
-Experimenting with AI and  Python to Build tools and write technical documentation for hardware teams, electronics labs, and Linux-based tech operations.
+I'm Michael Rivera. My day job is handling and assembling Electronics.
+MainbyteLabs Write technical documentation, built for hardware teams, electronics enthusiast, and Linux-based operations.
 
-That background is the whole point. I know what it looks like when documentation fails on the bench. I know what a tool actually needs to do to survive a real workflow. That's what you get here — stuff built to be used, not just read.
+I know what feels like when documentation fails you on the job. I know what a tool actually needs to do to survive a real workflow. That's what you get here — stuff built to be used, not just read.
 
 If your team runs on spreadsheets, paper logs, or READMEs nobody opens — I can fix that.
 
