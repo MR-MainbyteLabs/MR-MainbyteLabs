@@ -5,7 +5,7 @@
 I'm Michael Rivera. My day job is handling and assembling Electronics.
 MainbyteLabs Write technical documentation, built for hardware teams, electronics enthusiast, and Linux-based operations.
 
-I know what feels like when documentation fails you on the job. I know what a tool actually needs to do to survive a real workflow. That's what you get here — stuff built to be used, not just read.
+I know what it feels like when documentation fails you on the half-way in.
 
 If your team runs on spreadsheets, paper logs, or READMEs nobody opens — I can fix that.
 
