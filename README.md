@@ -2,10 +2,12 @@
 
 **Technical documentation and Python tooling — built by a working electronics technician.**
 
-I'm Michael Rivera. My day job is handling Electronics at L3Harris.
-I also build Python tools and write technical documentation that may be useful for hardware teams, electronics labs, and Linux-based tech operations.
+I'm Michael Rivera. My day job is Electronics Test Technician III at L3Harris.
+I also build Python tools and write technical documentation for hardware teams, electronics labs, and Linux-based tech operations.
 
-If your team runs on spreadsheets, paper logs, or READMEs nobody opens, I can fix that.
+That background is the whole point. I know what it looks like when documentation fails on the bench. I know what a tool actually needs to do to survive a real workflow. That's what you get here — stuff built to be used, not just read.
+
+If your team runs on spreadsheets, paper logs, or READMEs nobody opens — I can fix that.
 
 ---
 
@@ -102,6 +104,7 @@ Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfol
 | [Complaint Letter Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Complaint_Letter_Sample.md) | Sample Letter | Fictional consumer refund dispute citing FTC and state consumer protection law |
 | [Negotiation Brief Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Negotiation_Brief_Sample.md) | Sample Brief | Fictional severance package negotiation citing tenure and record |
 | [Plain Language Translation Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Plain_Language_Translation_Sample.md) | Sample Translation | Dense insurance balance-billing clause rewritten into plain language |
+| [Highlight Scraper — Modification Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/highlight-scraper-modification-guide.md) | Modification Guide | Complete developer reference for highlight-scraper — architecture map, per-file modification instructions, and end-to-end feature walkthrough |
 
 ---
 
