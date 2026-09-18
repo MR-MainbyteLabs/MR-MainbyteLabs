@@ -105,7 +105,7 @@ Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfol
 | [Complaint Letter Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Complaint_Letter_Sample.md) | Sample Letter | Fictional consumer refund dispute citing FTC and state consumer protection law |
 | [Negotiation Brief Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Negotiation_Brief_Sample.md) | Sample Brief | Fictional severance package negotiation citing tenure and record |
 | [Plain Language Translation Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Plain_Language_Translation_Sample.md) | Sample Translation | Dense insurance balance-billing clause rewritten into plain language |
-| [Highlight Scraper — Modification Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/highlight-scraper-modification-guide.md) | Modification Guide | Complete developer reference for highlight-scraper — architecture map, per-file modification instructions, and end-to-end feature walkthrough |
+| [Highlight Scraper — Modification Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/highlight-scraper-complete-modification-guide.md) | Modification Guide | Complete developer reference for highlight-scraper — architecture map, per-file modification instructions, and end-to-end feature walkthrough |
 
 ---
 
