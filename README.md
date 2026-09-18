@@ -114,9 +114,6 @@ Full documentation portfolio: [github.com/MR-MainbyteLabs/technical-docs-portfol
 | [Notion Workspace Setup Guide](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Notion_workspace_setup_guide.md) | User Guide | Written for a non-technical audience with zero assumed Notion experience |
 | [Complaint Letter Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Complaint_Letter_Sample.md) | Sample Letter | Fictional consumer refund dispute citing FTC and state consumer protection law |
 | [Negotiation Brief Sample](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/Negotiation_Brief_Sample.md) | Sample Brief | Fictional severance package negotiation citing tenure and record |
-| [R&D Idea Engine — Technical Reference](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/rd-idea-engine-readme.md) | Technical Reference | Architecture and usage reference for the three-option R&D Idea Engine |
-| [R&D Idea Engine — Test & Validation SOP](https://github.com/MR-MainbyteLabs/technical-docs-portfolio/blob/main/rd-idea-engine-test-run.md) | SOP | Test and validation procedures for all three R&D Idea Engine versions |
-| [R&D Idea Engine — Modification Guide](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides/blob/main/rd-idea-engine-modification-guide.md) | Modification Guide | Extension and customization guide for the R&D Idea Engine |
 
 **BleedingCodes Modification Guides** — full set at [github.com/MR-MainbyteLabs/bleedingcodes-modification-guides](https://github.com/MR-MainbyteLabs/bleedingcodes-modification-guides)
 
